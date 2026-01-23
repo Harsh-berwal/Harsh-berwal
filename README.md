@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Harsh-berwal/Harsh-berwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Harsh, a Computer Science student with a growing interest in web development.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working code, breaking things along the way, and understanding what went wrong before fixing it. I focus on learning by building and improving through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m working with modern web technologies and strengthening my problem-solving skills.
+
+Tech I use:
+HTML, CSS, JavaScript, React, Git, GitHub
+
+Fun Facts:
+
+My favorite anime is One Piece
+
+I overthink names, not projects
+
+Debugging enthusiast (by force)
+
+I judge days by how good the food was
