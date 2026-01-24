@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, React, Git, GitHub
 
 Fun Facts:
 
-My favorite anime is One Piece
-I overthink names, not projects
-Debugging enthusiast (by force)
+My favorite anime is One Piece<br>
+I overthink names, not projects<br>
+Debugging enthusiast (by force)<br>
 I judge days by how good the food was
