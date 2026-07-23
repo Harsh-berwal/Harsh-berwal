@@ -8,7 +8,7 @@ Building modern, fast and interactive web experiences.
 
 <p>
   <a href="https://my-portfolio-gules-five-57.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https:/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/harsh-berwal/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
