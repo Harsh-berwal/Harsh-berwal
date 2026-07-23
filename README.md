@@ -18,7 +18,7 @@ Building modern, fast and interactive web experiences.
   </a>
 </p>
 
-<p align="center">
+<p >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=%3E+npm+run+dev;%E2%9C%94+Next.js+Developer;%E2%9C%94+Building+Modern+Web+Apps;%E2%9C%94+Always+Learning..." />
 </p>
 ---
