@@ -28,10 +28,10 @@ Building modern, fast and interactive web experiences.
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 🚀 Passionate about Full-Stack Development
-- 🎨 Love building modern UI & smooth animations
-- 📚 Always learning by building real projects
+-  Computer Science Student
+-  Passionate about Full-Stack Development
+-  Love building modern UI & smooth animations
+-  Always learning by building real projects
 
 ---
 
@@ -50,10 +50,10 @@ Building modern, fast and interactive web experiences.
 
 ## ⚡ Fun Facts
 
-- 🏴‍☠️ One Piece fan
-- 🤔 I overthink names, not projects
-- 🐛 Debugging enthusiast (by force)
-- 🍕 Good food = Good day
+-  One Piece fan
+-  I overthink names, not projects
+-  Debugging enthusiast (by force)
+-  Good food = Good day
 
 ---
 
