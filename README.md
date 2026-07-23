@@ -50,10 +50,10 @@ Building modern, fast and interactive web experiences.
 
 ## ⚡ Fun Facts
 
--  One Piece fan
+-  My favorite anime is One Piece
 -  I overthink names, not projects
 -  Debugging enthusiast (by force)
--  Good food = Good day
+-  I judge days by how good the food was
 
 ---
 
