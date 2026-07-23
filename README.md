@@ -18,7 +18,7 @@ Building modern, fast and interactive web experiences.
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=550&lines=Next.js+Developer;TypeScript+Enthusiast;Building+Beautiful+Web+Apps" /></div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=550&lines=Next.js+Developer;TypeScript+Enthusiast;Building+Beautiful+Web+Apps" />
 
 ---
 
